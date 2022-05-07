@@ -108,13 +108,13 @@ Jika hari ini sama dengan hari check-out maka status reservasi akan berubah menj
 
 User atau Konsumen dapat melakukan :
 
-1. Melihat Homepage Web Aplikasi
+1. Melihat Homepage Web Aplikasi <br>
    <img src="https://user-images.githubusercontent.com/68214221/167260914-0a994046-3d0d-4fc0-82c0-ada0a30de3fe.png" width="500">
 
-2. Melihat tipe kamar dan fasilitasnya
+2. Melihat tipe kamar dan fasilitasnya <br>
    <img src="https://user-images.githubusercontent.com/68214221/167260917-1ce53f31-c128-4f30-8a0c-927b2aa1c527.png" width="500">
 
-3. Melihat fasilitas hotel
+3. Melihat fasilitas hotel <br>
    <img src="https://user-images.githubusercontent.com/68214221/167260910-2f48aefb-2aaf-4dce-a245-15a9675c2352.png" width="500">
 
 4. Melakukan Pemesanan kamar hotel hebat
@@ -126,5 +126,5 @@ Jika ada yang ingin ditambahkan atau dikoreksi bisa hubungi saya ke email yang b
 
 Arigatou. :)
 
-🔥 TERIMAKASIH 🔥
+🔥 TERIMAKASIH 🔥 <br>
 Terimakasih untuk kalian yang udah mampir kesini, semoga mempelajari sesuatu! ❤️
