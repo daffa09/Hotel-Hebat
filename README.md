@@ -36,18 +36,38 @@ Selengkapnya di portofolio :
 
 Aplikasi ini dibuat menggunakan framework laravel 9, jadi jika ingin menggunakan aplikasi ini hal yang diperlukan adalah :
 
-1. sudah menginstall composer
-2. sudah terinstall laravel versi 9
-3. sudah terinstall xampp atau sejenisnya
+1. terinstall composer versi terbaru
+2. terinstall laravel versi 9
+3. terinstall xampp atau sejenisnya
+4. terinstall php versi 8
 
 Lalu untuk cara menggunakanya ikuti langkah berikut :
 
-    - download project ini lalu simpan di htdocs local kalian
-    - lalu buka project ini di kode editor favorit kalian
-    - rename file .env.exampple menjadi .env
-    - buka file .env.example lalu ubah isi pada bagian "DB_DATABASE" menjadi "hotel_hebat" tetapi kalian harus membuat databasenya terlebih dahulu di phpmyadmin
-    - setelahnya ubah isi pada bagian "MAIL_USERNAME" dan "MAIL_PASSWORD" dengan email dan password kalian ataupun email hotel yang ingin menggunakan aplikasi ini
-    - setelah itu buka terminal kalian yang sudah mengarah di project ini
-    - lalu ketikan "php artisan migrate:fresh --seed" tanpa tanda kutip dua di terminal kalian
-    - masih di terminal ketikan kembali "php artisan storage:link" tanpa tanda kutip dua lalu enter
-    - jika sampai sini kalian tidak ada masalah maka aplikasi sudah siap digunakan
+-   download project ini lalu simpan di htdocs local kalian
+-   lalu buka project ini di kode editor favorit kalian
+-   rename file .env.exampple menjadi .env
+-   buka file .env.example lalu ubah isi pada bagian "DB_DATABASE" menjadi "hotel_hebat" tetapi kalian harus membuat databasenya terlebih dahulu di phpmyadmin
+-   setelahnya ubah isi pada bagian "MAIL_USERNAME" dan "MAIL_PASSWORD" dengan email dan password kalian ataupun email hotel yang ingin menggunakan aplikasi ini
+-   setelah itu buka terminal kalian yang sudah mengarah di project ini
+-   lalu ketikan "php artisan migrate:fresh --seed" tanpa tanda kutip dua di terminal kalian
+-   masih di terminal ketikan kembali "php artisan storage:link" tanpa tanda kutip dua lalu enter
+-   jika sampai sini kalian tidak ada masalah maka aplikasi sudah siap digunakan
+
+## FITUR YANG ADA DI APLIKASI RESERVASI HOTEL HEBAT
+
+Fitur yang terdapat pada aplikasi ini diantaranya :
+
+### ADMINISTRATOR
+
+<img src="https://user-images.githubusercontent.com/68214221/167260281-0c1a8aa3-bc65-467d-84ba-c5f245a10cf3.png" width="500">
+
+Administrator dapat mengelola :
+
+1. Melakukan CRUD(Create, Read, Update dan Delete) pada Tipe Kamar
+   <img src="https://user-images.githubusercontent.com/68214221/167260309-bb4e3499-4c4f-47a1-bb88-cc046f10d9bf.png" width="500">
+
+2. Melakukan CRUD(Create, Read, Update dan Delete) pada Fasilitas Kamar
+   <img src="https://user-images.githubusercontent.com/68214221/167260308-bd2549d3-1f26-41fa-a647-73a3fc11a556.png" width="500">
+
+3. Melakukan CRUD(Create, Read, Update dan Delete) pada Fasilitas Hotel
+   <img src="https://user-images.githubusercontent.com/68214221/167260306-3b5022c6-e0d5-4f79-8621-c0486b64cd66.png" width="500">
