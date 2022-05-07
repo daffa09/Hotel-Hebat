@@ -128,4 +128,4 @@ Jika ada yang ingin ditambahkan atau dikoreksi bisa hubungi saya ke email yang b
 Arigatou. :)
 
 🔥 TERIMAKASIH 🔥 <br>
-Terimakasih untuk kalian yang udah mampir kesini, semoga mempelajari sesuatu! ❤️
+Terimakasih banyak untuk kalian yang udah mampir kesini, semoga mempelajari sesuatu! ❤️
