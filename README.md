@@ -43,6 +43,8 @@ Aplikasi ini dibuat menggunakan framework laravel 9, jadi jika ingin menggunakan
 
 Lalu untuk cara menggunakanya ikuti langkah berikut :
 
+<<<<<<< HEAD
+
 -   download project ini lalu simpan di htdocs local kalian
 -   lalu buka project ini di kode editor favorit kalian
 -   rename file .env.exampple menjadi .env
