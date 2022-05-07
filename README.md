@@ -104,17 +104,17 @@ Jika hari ini sama dengan hari check-out maka status reservasi akan berubah menj
 
 ### USER ATAU KONSUMEN
 
-<img src="https://user-images.githubusercontent.com/68214221/167260695-663dfa0d-2225-4c73-98a5-bc4964ecfcf1.png" width="500">
+Untuk cara pemesanan kamar nya bisa kalian lihat demo nya di portofolio ya!
 
 User atau Konsumen dapat melakukan :
 
-1. Melihat Homepage Web Aplikasi
+1. Melihat Homepage Web Aplikasi <br>
    <img src="https://user-images.githubusercontent.com/68214221/167260914-0a994046-3d0d-4fc0-82c0-ada0a30de3fe.png" width="500">
 
-2. Melihat tipe kamar dan fasilitasnya
+2. Melihat tipe kamar dan fasilitasnya <br>
    <img src="https://user-images.githubusercontent.com/68214221/167260917-1ce53f31-c128-4f30-8a0c-927b2aa1c527.png" width="500">
 
-3. Melihat fasilitas hotel
+3. Melihat fasilitas hotel <br>
    <img src="https://user-images.githubusercontent.com/68214221/167260910-2f48aefb-2aaf-4dce-a245-15a9675c2352.png" width="500">
 
 4. Melakukan Pemesanan kamar hotel hebat
@@ -122,9 +122,10 @@ User atau Konsumen dapat melakukan :
 
 ## KONTAK
 
+Sekian project ujian dunia industri tahun 2022 milik saya ini, <br>
 Jika ada yang ingin ditambahkan atau dikoreksi bisa hubungi saya ke email yang berada di portofolio ya!
 
 Arigatou. :)
 
-🔥 TERIMAKASIH 🔥
-Terimakasih untuk kalian yang udah mampir kesini, semoga mempelajari sesuatu! ❤️
+🔥 TERIMAKASIH 🔥<br>
+Terimakasih banyak untuk kalian yang udah mampir kesini, semoga mempelajari sesuatu! ❤️
