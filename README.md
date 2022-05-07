@@ -32,4 +32,22 @@ Selengkapnya di portofolio :
 
 Selengkapnya di portofolio :
 
-## CARA MENGGUNAKAN APLIKASI PEMESANAN KAMAR HOTEL hebat
+## CARA MENGGUNAKAN APLIKASI PEMESANAN KAMAR HOTEL HEBAT
+
+Aplikasi ini dibuat menggunakan framework laravel 9, jadi jika ingin menggunakan aplikasi ini hal yang diperlukan adalah :
+
+1. sudah menginstall composer
+2. sudah terinstall laravel versi 9
+3. sudah terinstall xampp atau sejenisnya
+
+Lalu untuk cara menggunakanya ikuti langkah berikut :
+
+    - download project ini lalu simpan di htdocs local kalian
+    - lalu buka project ini di kode editor favorit kalian
+    - rename file .env.exampple menjadi .env
+    - buka file .env.example lalu ubah isi pada bagian "DB_DATABASE" menjadi "hotel_hebat" tetapi kalian harus membuat databasenya terlebih dahulu di phpmyadmin
+    - setelahnya ubah isi pada bagian "MAIL_USERNAME" dan "MAIL_PASSWORD" dengan email dan password kalian ataupun email hotel yang ingin menggunakan aplikasi ini
+    - setelah itu buka terminal kalian yang sudah mengarah di project ini
+    - lalu ketikan "php artisan migrate:fresh --seed" tanpa tanda kutip dua di terminal kalian
+    - masih di terminal ketikan kembali "php artisan storage:link" tanpa tanda kutip dua lalu enter
+    - jika sampai sini kalian tidak ada masalah maka aplikasi sudah siap digunakan
