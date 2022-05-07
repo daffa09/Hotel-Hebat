@@ -37,13 +37,11 @@ Selengkapnya di portofolio :
 Aplikasi ini dibuat menggunakan framework laravel 9, jadi jika ingin menggunakan aplikasi ini hal yang diperlukan adalah :
 
 1. terinstall composer versi terbaru
-2. terinstall laravel versi 9
+2. terinstall laravel versi 9 (dengan catatan port phpmyadmin sudah berubah menjadi 8080)
 3. terinstall xampp atau sejenisnya
 4. terinstall php versi 8
 
 Lalu untuk cara menggunakanya ikuti langkah berikut :
-
-<<<<<<< HEAD
 
 -   download project ini lalu simpan di htdocs local kalian
 -   lalu buka project ini di kode editor favorit kalian
@@ -55,6 +53,13 @@ Lalu untuk cara menggunakanya ikuti langkah berikut :
 -   masih di terminal ketikan kembali "php artisan storage:link" tanpa tanda kutip dua lalu enter
 -   jika sampai sini kalian tidak ada masalah maka aplikasi sudah siap digunakan
 
+Lalu untuk menjalankan aplikasi nya dengan cara berikut :
+
+-   buka terminal yang sudah mengarah di project ini
+-   lalu ketikan "php artisan serve" tanpa tanda kutip dua
+-   setelah itu copy url yang muncul "http://127.0.0.1:8000/" biasanya itu yang akan tertulis
+-   lalu pastekan url tersebut di browser yang kalian suka lalau klik enter
+
 ## FITUR YANG ADA DI APLIKASI RESERVASI HOTEL HEBAT
 
 Fitur yang terdapat pada aplikasi ini diantaranya :
@@ -65,11 +70,54 @@ Fitur yang terdapat pada aplikasi ini diantaranya :
 
 Administrator dapat mengelola :
 
-1. Melakukan CRUD(Create, Read, Update dan Delete) pada Tipe Kamar
+1. Login dengan cara ketik di url "http://127.0.0.1:8000/login"
+   <img src="https://user-images.githubusercontent.com/68214221/167260912-979f2157-5490-4b3d-8aa5-356d6ed248e7.png" width="500">
+
+2. Melakukan CRUD(Create, Read, Update dan Delete) pada Tipe Kamar
    <img src="https://user-images.githubusercontent.com/68214221/167260309-bb4e3499-4c4f-47a1-bb88-cc046f10d9bf.png" width="500">
 
-2. Melakukan CRUD(Create, Read, Update dan Delete) pada Fasilitas Kamar
+3. Melakukan CRUD(Create, Read, Update dan Delete) pada Fasilitas Kamar
    <img src="https://user-images.githubusercontent.com/68214221/167260308-bd2549d3-1f26-41fa-a647-73a3fc11a556.png" width="500">
 
-3. Melakukan CRUD(Create, Read, Update dan Delete) pada Fasilitas Hotel
+4. Melakukan CRUD(Create, Read, Update dan Delete) pada Fasilitas Hotel
    <img src="https://user-images.githubusercontent.com/68214221/167260306-3b5022c6-e0d5-4f79-8621-c0486b64cd66.png" width="500">
+
+kalian bisa mencoba nya sendiri untuk fitur admin ini
+
+### RESEPSIONIS
+
+<img src="https://user-images.githubusercontent.com/68214221/167260695-663dfa0d-2225-4c73-98a5-bc4964ecfcf1.png" width="500">
+
+Resepsionis dapat mengelola :
+
+1. Login dengan cara ketik di url "http://127.0.0.1:8000/login"
+   <img src="https://user-images.githubusercontent.com/68214221/167260912-979f2157-5490-4b3d-8aa5-356d6ed248e7.png" width="500">
+
+2. Melakukan filtering data berdasarkan tanggal check-in dan nama tamu. Serta dapat melakukan check-in kamar yang sudah dipesan dan dapat melakukan pembatalan pesan.
+   <img src="https://user-images.githubusercontent.com/68214221/167260698-b6b7f038-065e-434c-b5e1-afb97c753f54.png" width="500">
+
+3. Melihat nota reservasi pada tombol "lihat" dan tampilan nya seperti ini jika di klik.
+   <img src="https://user-images.githubusercontent.com/68214221/167260781-a607e447-e1f6-4867-b32b-18c267294aef.png" width="500">
+
+Resepsionis tidak mengatur check-out reservasi karena fitur chekc-out sudah dibuat otomatis oleh sistem.
+Jika hari ini sama dengan hari check-out maka status reservasi akan berubah menjadi "check-out" secara otomatis selama halaman itu di refresh.
+
+### USER ATAU KONSUMEN
+
+<img src="https://user-images.githubusercontent.com/68214221/167260695-663dfa0d-2225-4c73-98a5-bc4964ecfcf1.png" width="500">
+
+User atau Konsumen dapat melakukan :
+
+1. Melihat Homepage Web Aplikasi
+   <img src="https://user-images.githubusercontent.com/68214221/167260914-0a994046-3d0d-4fc0-82c0-ada0a30de3fe.png" width="500">
+
+2. Melihat tipe kamar dan fasilitasnya
+   <img src="https://user-images.githubusercontent.com/68214221/167260917-1ce53f31-c128-4f30-8a0c-927b2aa1c527.png" width="500">
+
+3. Melihat fasilitas hotel
+   <img src="https://user-images.githubusercontent.com/68214221/167260910-2f48aefb-2aaf-4dce-a245-15a9675c2352.png" width="500">
+
+4. Melakukan Pemesanan kamar hotel hebat
+   <img src="https://user-images.githubusercontent.com/68214221/167260915-f185eea6-0859-4ff6-afc3-ea5421adfe92.png" width="500">
+
+
