@@ -120,4 +120,11 @@ User atau Konsumen dapat melakukan :
 4. Melakukan Pemesanan kamar hotel hebat
    <img src="https://user-images.githubusercontent.com/68214221/167260915-f185eea6-0859-4ff6-afc3-ea5421adfe92.png" width="500">
 
+## KONTAK
 
+Jika ada yang ingin ditambahkan atau dikoreksi bisa hubungi saya ke email yang berada di portofolio ya!
+
+Arigatou. :)
+
+🔥 TERIMAKASIH 🔥
+Terimakasih untuk kalian yang udah mampir kesini, semoga mempelajari sesuatu! ❤️
