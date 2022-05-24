@@ -26,11 +26,11 @@ Solusi dari tantangan yang dihadapi adalah :
 
 ## PROSES PEMBUATAN
 
-Selengkapnya di portofolio :
+Selengkapnya di portofolio : https://daffa09.github.io/daffafathan-portofolio.github.io/project/Hotel-Hebat/index.html
 
 ## ALUR PROGRAM PEMESANAN KAMAR
 
-Selengkapnya di portofolio :
+Selengkapnya di portofolio : https://daffa09.github.io/daffafathan-portofolio.github.io/project/Hotel-Hebat/index.html
 
 ## CARA MENGGUNAKAN APLIKASI PEMESANAN KAMAR HOTEL HEBAT
 
